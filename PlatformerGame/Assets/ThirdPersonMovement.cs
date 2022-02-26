@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//Trevor Jedziniak
 public class ThirdPersonMovement : MonoBehaviour
 {
     //https://www.youtube.com/watch?v=4HpC--2iowE
